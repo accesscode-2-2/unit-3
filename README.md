@@ -1,11 +1,11 @@
 # Unit 3
  # |  Date | Week | Lesson |
 |---|---|---|---|
-0 | Oct 27 | 0 | [Final project introduction](https://github.com/accesscode-2-2/unit-2/blob/master/lessons/week-0/2015_09_08.md)
+0 | Oct 27 | 0 | [Final project introduction](https://github.com/accesscode-2-2/unit-3-final-project)
 1 | Oct 29 | 0 | Hackathon Planning + Topic
 2 | Oct 31 | 0 | Hackathon
 3 | Nov 1 | 0 | Hackathon
-4 | Nov 3 | 1 | Hang + Final project proposals
+4 | Nov 3 | 1 | Hang + [Final project proposals](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/project_proposals.md)
 5 | Nov 5 | 1 | Lessons learned from Android + Project work
 6 | Nov 7 | 1 | Hang + project work
 7 | Nov 8 | 1 | Custom UIViewController transitions
