@@ -12,16 +12,16 @@
 8 | Nov 10 | 2 | TBD
 9 | Nov 12 | 2 | TBD
 10 | Nov 14 | 2 | TBD
-11 | Nov 15 | 2 | TBD
-12 | Nov 17 | 3 | TBD
+11 | Nov 15 | 2 | Project work
+12 | Nov 17 | 3 | First release
 13 | Nov 19 | 3 | TBD
 14 | Nov 21 | 3 | TBD
-15 | Nov 22 | 3 | TBD
-16 | Nov 24 | 4 | TBD
+15 | Nov 22 | 3 | Project work
+16 | Nov 24 | 4 | Second release
 17 | Nov 26 | 4 | Thanksgiving Break
 18 | Nov 28 | 4 | Thanksgiving Break
 19 | Nov 29 | 4 | Thanksgiving Break
-20 | Dec 1 | 5 | TBD
+20 | Dec 1 | 5 | Third release
 21 | Dec 3 | 5 | TBD
 22 | Dec 5 | 5 | TBD
 23 | Dec 6 | 5 | TBD
