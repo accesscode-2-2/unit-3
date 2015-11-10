@@ -11,11 +11,11 @@
 7 | Nov 8 | 1 | [Gestures](gestures) and [Val](http://www.v-a-l-e-r-i-e.com/about/) from Etsy [(Slides)](/speakers/Val_UX_Talk.pdf) [(Resources)](/speakers/Val_resources/)
 8 | Nov 10 | 2 | [Intro to SpriteKit](https://github.com/accesscode-2-2/IntroToSpriteKit)
 9 | Nov 12 | 2 | Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials
-10 | Nov 14 | 2 | Custom UIViewController transitions
+10 | Nov 14 | 2 | [Custom UIViewController transitions](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-2/2015_11_14.md)
 11 | Nov 15 | 2 | Project work
-12 | Nov 17 | 3 | <span style="color:red;">First release</span>
-13 | Nov 19 | 3 | App Store Guidelines
-14 | Nov 21 | 3 | Hardware
+12 | Nov 17 | 3 | First release
+13 | Nov 19 | 3 | [App Store Guidelines](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_19.md)
+14 | Nov 21 | 3 | [Hardware](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)
 15 | Nov 22 | 3 | Project work
 16 | Nov 24 | 4 | Second release
 17 | Nov 26 | 4 | Thanksgiving Break
