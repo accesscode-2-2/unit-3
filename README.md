@@ -13,7 +13,7 @@
 9 | Nov 12 | 2 | Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials
 10 | Nov 14 | 2 | Custom UIViewController transitions
 11 | Nov 15 | 2 | Project work
-12 | Nov 17 | 3 | First release
+12 | Nov 17 | 3 | <span style="color:red;">First release</span>
 13 | Nov 19 | 3 | App Store Guidelines
 14 | Nov 21 | 3 | Hardware
 15 | Nov 22 | 3 | Project work
