@@ -15,7 +15,7 @@
 11 | Nov 15 | 2 | Project work
 12 | Nov 17 | 3 | First release
 13 | Nov 19 | 3 | App Store Guidelines
-14 | Nov 21 | 3 | TBD
+14 | Nov 21 | 3 | Hardware
 15 | Nov 22 | 3 | Project work
 16 | Nov 24 | 4 | Second release
 17 | Nov 26 | 4 | Thanksgiving Break
