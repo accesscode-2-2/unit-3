@@ -22,7 +22,7 @@
 18 | Nov 28 | 4 | Thanksgiving Break
 19 | Nov 29 | 4 | Thanksgiving Break
 20 | Dec 1 | 5 | Third release
-21 | Dec 3 | 5 | TBD
-22 | Dec 5 | 5 | TBD
-23 | Dec 6 | 5 | TBD
+21 | Dec 3 | 5 | Final project working session
+22 | Dec 5 | 5 | Final project working session
+23 | Dec 6 | 5 | Final project working session
 24 | Dec 8 | 6 | Demo Day!!!!!!!!
