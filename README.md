@@ -12,7 +12,7 @@
 8 | Nov 10 | 2 | [Intro to SpriteKit](https://github.com/accesscode-2-2/IntroToSpriteKit)
 9 | Nov 12 | 2 | Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials
 10 | Nov 14 | 2 | [Custom UIViewController transitions](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-2/2015_11_14.md)
-11 | Nov 15 | 2 | Project work
+11 | Nov 15 | 2 | Project work + Design pass w/ dave
 12 | Nov 17 | 3 | First release
 13 | Nov 19 | 3 | [App Store Guidelines](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_19.md)
 14 | Nov 21 | 3 | [Hardware](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)
