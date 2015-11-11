@@ -11,18 +11,18 @@
 7 | Nov 8 | 1 | [Gestures](gestures) and [Val](http://www.v-a-l-e-r-i-e.com/about/) from Etsy [(Slides)](/speakers/Val_UX_Talk.pdf) [(Resources)](/speakers/Val_resources/)
 8 | Nov 10 | 2 | [Intro to SpriteKit](https://github.com/accesscode-2-2/IntroToSpriteKit)
 9 | Nov 12 | 2 | Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials [(Slides)](/speakers/underdog_deck.pdf)
-10 | Nov 14 | 2 | Custom UIViewController transitions
-11 | Nov 15 | 2 | Project work
+10 | Nov 14 | 2 | [Custom UIViewController transitions](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-2/2015_11_14.md)
+11 | Nov 15 | 2 | Project work + Design pass w/ dave
 12 | Nov 17 | 3 | First release
-13 | Nov 19 | 3 | App Store Guidelines
-14 | Nov 21 | 3 | Hardware
+13 | Nov 19 | 3 | [App Store Guidelines](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_19.md)
+14 | Nov 21 | 3 | [Hardware](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)
 15 | Nov 22 | 3 | Project work
 16 | Nov 24 | 4 | Second release
 17 | Nov 26 | 4 | Thanksgiving Break
 18 | Nov 28 | 4 | Thanksgiving Break
 19 | Nov 29 | 4 | Thanksgiving Break
 20 | Dec 1 | 5 | Third release
-21 | Dec 3 | 5 | TBD
-22 | Dec 5 | 5 | TBD
-23 | Dec 6 | 5 | TBD
+21 | Dec 3 | 5 | Final project working session
+22 | Dec 5 | 5 | Final project working session
+23 | Dec 6 | 5 | Final project working session
 24 | Dec 8 | 6 | Demo Day!!!!!!!!
