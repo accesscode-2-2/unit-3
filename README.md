@@ -10,7 +10,7 @@
 6 | Nov 7 | 1 | Hang + project work
 7 | Nov 8 | 1 | [Gestures](gestures) and [Val](http://www.v-a-l-e-r-i-e.com/about/) from Etsy [(Slides)](/speakers/Val_UX_Talk.pdf) [(Resources)](/speakers/Val_resources/)
 8 | Nov 10 | 2 | [Intro to SpriteKit](https://github.com/accesscode-2-2/IntroToSpriteKit)
-9 | Nov 12 | 2 | Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials
+9 | Nov 12 | 2 | Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials [(Slides)](/speakers/underdog_deck.pdf)
 10 | Nov 14 | 2 | Custom UIViewController transitions
 11 | Nov 15 | 2 | Project work
 12 | Nov 17 | 3 | First release
