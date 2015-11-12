@@ -12,7 +12,7 @@
 |3|Tuesday 11/10|[Intro to SpriteKit](https://github.com/accesscode-2-2/IntroToSpriteKit)|---|
 |3|Thursday 11/12|Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials [(Slides)](/speakers/underdog_deck.pdf)|---|
 |3|Saturday 11/14|[Custom UIViewController transitions](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-2/2015_11_14.md)|---|
-|3|Sunday 11/15|Project work + Design pass w/ dave|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md) and [project descriptions](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/final_project_descriptions.md) |
+|3|Sunday 11/15|Project work + [Design pass w/ dave](/logo_meetings_schedule.md)|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md) and [project descriptions](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/final_project_descriptions.md) |
 |4|Tuesday 11/17|FIRST RELEASE + [DEMO](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/firstreleaseguidelines.png)<br>Guest: Wesly Ross from Fueled|Push Beta Builds, Logos Due, Presentation Deck Due|
 |4|Thursday 11/19|[App Store Guidelines](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_19.md)|---|
 |4|Saturday 11/21|[Hardware](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)|---|
