@@ -20,7 +20,7 @@
 |5|Tuesday 11/24|SECOND RELEASE + DEMO|Presentation Scripts due|
 |5|Thursday 11/26|Thanksgiving Break-No Class|---|
 |5|Saturday 11/28|Thanksgiving Break-No Class|---|
-|5|Sunday 11/29|Thanksgiving Break-No Class|[Weekly Retrospective](/weekly_retrospective.md)|
+|5|Sunday 11/29|Thanksgiving Break-No Class|[Weekly Retrospective](/weekly_retrospective.md) and Project descriptions|
 |5|Monday 11/30| Individual team demo reviews|---|
 |6|Tuesday 12/1|THIRD RELEASE + DEMO|Personal Pitches due|
 |6|Thursday 12/3|Individual meetings to review personal pitches|---|
