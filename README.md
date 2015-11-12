@@ -27,10 +27,10 @@
 |6|Saturday 12/5|Individual meetings to review demos|---|
 |6|Sunday 12/6|---|[Weekly Retrospective](/weekly_retrospective.md)|
 |7|Tuesday 12/8|DEMO DAY|Submit final version to App Store|
-|7|Thursday Dec 10 | Final Assesment review|---|
-|7| Saturday Dec 12 | No class|---|
-|7| Sunday 13 | No class|---|
-|8| Tuesday 15 | Final Assessment review|---|
-|8| Thursday 17 | Final Assessment review|---|
-|8| Saturday 19 | Final Assessment|---|
-|8| Sunday 21 | Final Assessment|---|
+|7|Thursday 12/10 | Final Assesment review|---|
+|7| Saturday 12/12 | No class|---|
+|7| Sunday 12/13 | No class|---|
+|8| Tuesday 12/15 | Final Assessment review|---|
+|8| Thursday 12/17 | Final Assessment review|---|
+|8| Saturday 12/19 | Final Assessment|---|
+|8| Sunday 12/21 | Final Assessment|---|
