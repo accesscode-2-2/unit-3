@@ -26,3 +26,10 @@
 22 | Dec 5 | 5 | Final project working session
 23 | Dec 6 | 5 | Final project working session
 24 | Dec 8 | 6 | Demo Day!!!!!!!!
+26 | Dec 10 | 6 | Final Assesment review
+27 | Dec 12 | 6 | No class
+28 | Dec 13 | 6 | No class
+29 | Dec 15 | 7 | Final Assessment review
+30 | Dec 17 | 7 | Final Assessment review
+31 | Dec 19 | 7 | Final Assessment
+32 | Dec 21 | 7 | Final Assessment
