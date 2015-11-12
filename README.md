@@ -1,35 +1,36 @@
-# Unit 3
- # |  Date | Week | Lesson |
+###Final Project Schedule
+|Week|Day|Activity|Deliverables|
 |---|---|---|---|
-0 | Oct 27 | 0 | [Final project introduction](https://github.com/accesscode-2-2/unit-3-final-project)
-1 | Oct 29 | 0 | Hackathon Planning + Topic
-2 | Oct 31 | 0 | Hackathon
-3 | Nov 1 | 0 | Hackathon
-4 | Nov 3 | 1 | Hang + [Final project proposals](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/project_proposals.md)
-5 | Nov 5 | 1 | Lessons learned from Android + Project work
-6 | Nov 7 | 1 | Hang + project work
-7 | Nov 8 | 1 | [Gestures](gestures) and [Val](http://www.v-a-l-e-r-i-e.com/about/) from Etsy [(Slides)](/speakers/Val_UX_Talk.pdf) [(Resources)](/speakers/Val_resources/)
-8 | Nov 10 | 2 | [Intro to SpriteKit](https://github.com/accesscode-2-2/IntroToSpriteKit)
-9 | Nov 12 | 2 | Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials [(Slides)](/speakers/underdog_deck.pdf)
-10 | Nov 14 | 2 | [Custom UIViewController transitions](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-2/2015_11_14.md)
-11 | Nov 15 | 2 | Project work + Design pass w/ dave
-12 | Nov 17 | 3 | First release
-13 | Nov 19 | 3 | [App Store Guidelines](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_19.md)
-14 | Nov 21 | 3 | [Hardware](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)
-15 | Nov 22 | 3 | Project work
-16 | Nov 24 | 4 | Second release
-17 | Nov 26 | 4 | Thanksgiving Break
-18 | Nov 28 | 4 | Thanksgiving Break
-19 | Nov 29 | 4 | Thanksgiving Break
-20 | Dec 1 | 5 | Third release
-21 | Dec 3 | 5 | Final project working session
-22 | Dec 5 | 5 | Final project working session
-23 | Dec 6 | 5 | Final project working session
-24 | Dec 8 | 6 | Demo Day!!!!!!!!
-26 | Dec 10 | 6 | Final Assesment review
-27 | Dec 12 | 6 | No class
-28 | Dec 13 | 6 | No class
-29 | Dec 15 | 7 | Final Assessment review
-30 | Dec 17 | 7 | Final Assessment review
-31 | Dec 19 | 7 | Final Assessment
-32 | Dec 21 | 7 | Final Assessment
+|1|Tuesday 10/27|[Project Intro](https://docs.google.com/presentation/d/1eiKlYdSkdFxaOHpVqbyYTcl5AyKr9DO7zRITqwCcaB4/edit?usp=sharing)|Come to class with app ideas|
+|1|Thursday 10/29|Hackathon Groups + Planning|---|
+|1|Saturday 10/31|Hackathon|---|
+|1|Sunday 11/1|Hackathon|---|
+|2|Tuesday 11/3|Project Proposal Working Session|[Final project proposals](/project_proposals.md) due at 10:00 pm|
+|2|Thursday 11/5|Project proposal reviews + Lessons Learned from 2.1 Final Projects|---|
+|2|Saturday 11/7|All day UI/Design Workshop|---|
+|2|Sunday 11/8|Wireframing|Wireframing due at 6:00 pm <br> [Weekly Retrospective](/weekly_retrospective.md)|
+|3|Tuesday 11/10|[Intro to SpriteKit](https://github.com/accesscode-2-2/IntroToSpriteKit)|---|
+|3|Thursday 11/12|Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials [(Slides)](/speakers/underdog_deck.pdf)|---|
+|3|Saturday 11/14|[Custom UIViewController transitions](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-2/2015_11_14.md)|---|
+|3|Sunday 11/15|Project work + Design pass w/ dave|[Weekly Retrospective](/weekly_retrospective.md)|
+|4|Tuesday 11/17|FIRST RELEASE + [DEMO](/presentation_guidelines.md)<br>Guest: Wesly Ross from Fueled|Push Beta Builds, Logos Due, Presentation Deck Due|
+|4|Thursday 11/19|[App Store Guidelines](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_19.md)|---|
+|4|Saturday 11/21|[Hardware](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)|---|
+|4|Sunday 11/22|Project work|[Weekly Retrospective](/weekly_retrospective.md)|
+|5|Tuesday 11/24|SECOND RELEASE + DEMO|Presentation Scripts due|
+|5|Thursday 11/26|Thanksgiving Break-No Class|---|
+|5|Saturday 11/28|Thanksgiving Break-No Class|---|
+|5|Sunday 11/29|Thanksgiving Break-No Class|[Weekly Retrospective](/weekly_retrospective.md)|
+|5|Monday 11/30| Individual team demo reviews|---|
+|6|Tuesday 12/1|THIRD RELEASE + DEMO|Personal Pitches due|
+|6|Thursday 12/3|Individual meetings to review personal pitches|---|
+|6|Saturday 12/5|Individual meetings to review demos|---|
+|6|Sunday 12/6|---|[Weekly Retrospective](/weekly_retrospective.md)|
+|7|Tuesday 12/8|DEMO DAY|Submit final version to App Store|
+|7|Thursday Dec 10 | Final Assesment review|---|
+|7| Saturday Dec 12 | No class|---|
+|7| Sunday 13 | No class|---|
+|8| Tuesday 15 | Final Assessment review|---|
+|8| Thursday 17 | Final Assessment review|---|
+|8| Saturday 19 | Final Assessment|---|
+|8| Sunday 21 | Final Assessment|---|
