@@ -1,4 +1,4 @@
-###Final Project Schedule
+###Unit 3 Schedule
 |Week|Day|Activity|Deliverables|
 |---|---|---|---|
 |1|Tuesday 10/27|[Project Intro](https://docs.google.com/presentation/d/1eiKlYdSkdFxaOHpVqbyYTcl5AyKr9DO7zRITqwCcaB4/edit?usp=sharing)|Come to class with app ideas|
