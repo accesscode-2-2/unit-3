@@ -13,7 +13,7 @@
 |3|Thursday 11/12|Josh, CEO and founder of [underdog.io](https://underdog.io), on preparing professional materials [(Slides)](/speakers/underdog_deck.pdf)|---|
 |3|Saturday 11/14|[Custom UIViewController transitions](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-2/2015_11_14.md)|---|
 |3|Sunday 11/15|Project work + Design pass w/ dave|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md)|
-|4|Tuesday 11/17|FIRST RELEASE + [DEMO](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/presentation_guidelines.md)<br>Guest: Wesly Ross from Fueled|Push Beta Builds, Logos Due, Presentation Deck Due|
+|4|Tuesday 11/17|FIRST RELEASE + [DEMO](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/firstreleaseguidelines.png)<br>Guest: Wesly Ross from Fueled|Push Beta Builds, Logos Due, Presentation Deck Due|
 |4|Thursday 11/19|[App Store Guidelines](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_19.md)|---|
 |4|Saturday 11/21|[Hardware](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)|---|
 |4|Sunday 11/22|Project work|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md)|
@@ -26,7 +26,7 @@
 |6|Thursday 12/3|Individual meetings to review personal pitches|---|
 |6|Saturday 12/5|Individual meetings to review demos|---|
 |6|Sunday 12/6|---|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md)|
-|7|Tuesday 12/8|DEMO DAY|Submit final version to App Store|
+|7|Tuesday 12/8|[DEMO DAY](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/presentation_guidelines.md)|Submit final version to App Store|
 |7|Thursday 12/10 | Final Assesment review|---|
 |7| Saturday 12/12 | No class|---|
 |7| Sunday 12/13 | No class|---|
