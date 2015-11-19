@@ -16,16 +16,16 @@
 |4|Tuesday 11/17|FIRST RELEASE + [DEMO](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/firstreleaseguidelines.png)<br>Guests: Wesley Ross (Product Manager at Fueled) and James Turnbull (CTO at Kickstarter)|Presentation Deck Due|
 |4|Thursday 11/19|Project work|---|
 |4|Saturday 11/21|[App Store guidelines, Hardware, Project work, Logos Due](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-3/2015_11_21.md)|Logos and [project descriptions](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/final_project_descriptions.md) due|
-|4|Sunday 11/22|Project work|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md)|
+|4|Sunday 11/22|Project work|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md) and [Mentor Agenda](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/Mentor_requirements.md)|
 |5|Tuesday 11/24|SECOND RELEASE + DEMO|Decks in Keynote, Push Beta Builds, Presentation Scripts due|
 |5|Thursday 11/26|Thanksgiving Break-No Class|---|
 |5|Saturday 11/28|Thanksgiving Break-No Class|---|
-|5|Sunday 11/29|Thanksgiving Break-No Class|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md)|
+|5|Sunday 11/29|Thanksgiving Break-No Class|[Weekly Retrospective] and [Mentor Agenda](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/Mentor_requirements.md)(https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md)|
 |5|Monday 11/30| Individual team demo reviews|---|
 |6|Tuesday 12/1|THIRD RELEASE + DEMO|Personal Pitches due|
 |6|Thursday 12/3|Individual meetings to review personal pitches|---|
 |6|Saturday 12/5|Individual meetings to review demos|---|
-|6|Sunday 12/6|---|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md)|
+|6|Sunday 12/6|---|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md) and [Mentor Agenda](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/Mentor_requirements.md)|
 |7|Tuesday 12/8|[DEMO DAY](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/presentation_guidelines.md)|Submit final version to App Store|
 |7|Thursday 12/10 | Final Assesment review|---|
 |7| Saturday 12/12 | No class|---|
