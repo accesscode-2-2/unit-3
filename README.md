@@ -23,7 +23,7 @@
 |5|Sunday 11/29|Thanksgiving Break-No Class|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md) and [Mentor Agenda](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/Mentor_requirements.md) |
 |5|Monday 11/30| Individual team demo reviews|---|
 |6|Tuesday 12/1|THIRD RELEASE + DEMO|Personal Pitches due|
-|6|Thursday 12/3|App store & Individual meetings to review personal pitches|[App Store](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-6/2015_12_03.md)|
+|6|Thursday 12/3|[App store](https://github.com/accesscode-2-2/unit-3/blob/master/lessons/week-6/2015_12_03.md) & Individual meetings to review personal pitches|---|
 |6|Saturday 12/5|Individual meetings to review demos|---|
 |6|Sunday 12/6|---|[Weekly Retrospective](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/weekly_retrospective.md) and [Mentor Agenda](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/Mentor_requirements.md)|
 |7|Tuesday 12/8|[DEMO DAY](https://github.com/accesscode-2-2/unit-3-final-project/blob/master/presentation_guidelines.md)|Submit final version to App Store|
